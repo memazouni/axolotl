@@ -24,3 +24,5 @@ rouge-score==0.1.2
 scipy
 scikit-learn==1.2.2
 pynvml
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
