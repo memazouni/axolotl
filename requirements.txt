@@ -24,3 +24,5 @@ rouge-score==0.1.2
 scipy
 scikit-learn==1.2.2
 pynvml
+filelock>=3.20.1 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
