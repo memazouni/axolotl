@@ -24,3 +24,5 @@ rouge-score==0.1.2
 scipy
 scikit-learn==1.2.2
 pynvml
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
